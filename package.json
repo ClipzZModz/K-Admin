@@ -1,0 +1,12 @@
+{
+  "name": "K-Admin",
+  "description": "K-Admin",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  }
+}
